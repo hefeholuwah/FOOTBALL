@@ -1,4 +1,3 @@
-```markdown
 # AWS Mail Notification Service for Football Fixtures
 
 This project implements an AWS-based service that sends daily email notifications about football fixtures for the current day. It utilizes **AWS Lambda**, **EventBridge Scheduler**, and **SNS** to fetch and notify users about the fixtures.
