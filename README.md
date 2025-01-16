@@ -2,6 +2,8 @@
 
 This project implements an AWS-based service that sends daily email notifications about football fixtures for the current day. It utilizes **AWS Lambda**, **EventBridge Scheduler**, and **SNS** to fetch and notify users about the fixtures.
 
+![serverless drawio](https://github.com/user-attachments/assets/f58d8bac-19a7-42de-8336-7bac5bbddc4f)
+
 ## Features
 
 - Fetches football fixtures for the current day using the [RapidAPI Live Football API](https://rapidapi.com/).
